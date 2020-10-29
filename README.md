@@ -4,7 +4,7 @@
 
 **国内加速访问方式**
 
-https://cdn.jsdelivr.net/gh/ZhaoUncle/images/blog/avatar.png
+https://cdn.jsdelivr.net/gh/ZhaoUncle/image@main/blog/avatar.png
 
 **博客图片加速访问方式：**
 
